@@ -5,3 +5,5 @@ trigger to test repeatable workflow
 trigger to test multi-env workflow
 
 trigger to test e2e-pipeline workflow
+
+trigger to test multi-stage workflow
